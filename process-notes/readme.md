@@ -141,3 +141,22 @@ select the part of the horse that is behind terry's torso
 once selected, use the delete key to get rid of it
 
 select both of the objects in the object window and then "combine" them using the edit toolbar
+
+Modual 3:
+
+game about terry and the horse becoming the centaur in the end
+using sugarcube
+game starts
+player given either horse or terry character using either function (https://twinery.org/wiki/function)
+Gives story for the two options after given, using historical facts and other such things to progress the story
+following the terry story, trying to go chronologically with his life
+using basic commands"[[insert name of next/previous slide]]" to get the story to move forward or backwards in the sequence.
+created link to begining passage when you die, using code script found here https://blogs.stockton.edu/textscape/files/2015/04/A-Twine-Cheat-Sheet.pdf under the "Creating a link that differ..." section
+attempted to try and use a key in the game to make it so that your positive decisions would end up giving you a better outcome
+the coding kept on giving me errors saying it was not identified and such, even when i copied the info directly from the guide http://www.adamhammond.com/twineguide/ -decide to scrap using the key all together
+making a strange story for the horse
+come to an option where you must choose head or tailhttps://twinery.org/wiki/function using the either function
+set it up so it randomly chooses one when you make your choice
+depending on what you chose your answer will be right or wrong, and thus you get sent to the correspongding spot
+Continue story to end it off with either losing or getting to the final objective
+export the file and upload using philome.la
