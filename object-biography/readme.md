@@ -1,4 +1,4 @@
-# Object Biography
+# Terry Fox Statue Biography
 
 
 The Government of Canada issued the construction of the Terry Fox Statue in 1983 by artist John Hooper and was originally unveiled on September 17 of that year at the intersection of Wellington Street and Colonel By Drive.  On July 1, 1998, as part of the Path of Heroes initiative that was created to commemorate the national heroes of Canada, the Terry Fox Statue was relocated to 90 Wellington Street in front of the Parliament Buildings (Ebner, 1998). 
@@ -8,10 +8,13 @@ Terrance Stanley Fox (Terry) was born in Winnipeg, Manitoba but raised in Port C
 Terry Fox never did recover from his cancer and passed away in New Westminster, Bristish Columbia at the Royal Columbian Hospital on June 28, 1981 at the age of 22 (Martha, 2017).  Terry’s story captured the attention of the nation and he was named Newsmaker of the Year for 1980 and 1981 (Perrone, 2013: 2).  The attention that Terry received for his actions transformed him into a Canadian icon and he was awarded the Order of Canada on September 18th, 1980, and received British Columbia’s highest honour, the Order of Dogwood, on October 21st, 1980 (Perrone, 2013: 14-15).  Terry’s hard work paid off and by February 17th, 1981 his Marathon of Hope was able to raise approximately 24 million in total, achieving the goal of raising $1 for every Canadian and consisting mainly of private donations (Martha, 2017). 
 
 
-Module 2: History is a Remix
+# Module 2: History is a Remix
 
 Human’s relation with the horse began ten thousand to fourteen thousand years ago in Eurasia as game for humans to hunt at the end of the ice age and began to be domesticated   in the Eurasian steppe around 5000 BCE for their meat (David, 2010: Where Were Horses First Domesticated?).  Horses first began to be ridden by herders around 4000 BCE and were primarily used for transportation in many places by 1500-1000 BCE (David, 2010: Economic and Military Effects of Horseback Riding).  Horses provided increased herding and agricultural outputs and allowed for long distance transportation on land trade routes that better connected groups of people greatly increasing economies to a more global scale (David, 2010: Economic and Military Effects of Horseback Riding).  
 
 Centaurs are mythological creatures that famously show up in Greek mythology, but are seen in many other cultures.  In Northern Europe, centaurs were originally depicted as water spirits, portraying a rough and violent character of the natural wilderness (Scobie, 1978: 142).   It is thought that the centaur first appeared in Greek folklore as depictions of horse riding invaders (Scobie, 1978: 144).  There is much speculation that the Idea of the centaur traveled west into Europe as images of a half horse, half human are depicted much earlier in the near East (Scobie, 1978: 145). 
+
+# Module 4: 3D Printing
+3D printing is a relatively new technology, only coming about around in the late 1980's, initially called Rapid Prototyping technology (3DPrinting Industry, 2018). The 3D printing technology has changed vastly over the last 30 years, allowing many different breakkthroughs, and changes within the technology. With 3D printing becoming more accurate and efficient, the new tasks that have been put into place are to make them more affordable, for the everyday user, with 2009 becoming the first time for commercially available printers (3DPrinting Industry, 2018). More recently, 2012 marked a great point in 3D printing history with emergence of online campaigns for the sale and production of consumer focused 3D printers, as well as the awareness brought about through mainstream medias(3DPrinting Industry, 2018)
 
 
